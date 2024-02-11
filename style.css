@@ -1,0 +1,27 @@
+body {
+    font-family: sans-serif;
+}
+nav {
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+    background-color: white;
+}
+nav a{
+    text-decoration: none;
+    background-image: linear-gradient(to right bottom, lightblue, white, pink);
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 5px 3px 3px 2px lightblue;
+}
+header {
+    background-image: linear-gradient(to right bottom, pink, white, lightblue);
+}
+header h1 {
+    text-align: center;
+    padding: 10px;
+}
+.headerFooter {
+    height: 50px;
+}
+
